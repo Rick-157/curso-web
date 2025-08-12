@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+
+
+#cabeçalho{
+    text-align: center;
+    color: blue
+}
+
+h2{
+    color: darkblue;
+}
+
+h3{
+    color:lightseagreen
+}
+
+p{
+    line-height: 1.6;
+    text-align: justify;
+    
+}
+
+#diferente{
+    text-align: justify;
+    color: rgb(28, 6, 156);
+}
+
+#rodape{
+    text-align: center;
+    color: rgb(73, 43, 180)
+}
